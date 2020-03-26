@@ -142,3 +142,7 @@ Add the class btn short for button to the anchor, because this link stands on it
 ### Showcase
 
 ### Contact
+
+## Styling
+
+### Reset
