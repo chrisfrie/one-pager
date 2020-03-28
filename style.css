@@ -146,6 +146,7 @@ footer a:hover {
 .btn:hover {
   color: var(--text-color-light);
   background-color: var(--theme-color-primary);
+  text-decoration: none;
 }
 
 .banner {
@@ -317,3 +318,4 @@ html {
 .mobile-navigation-expanded .navigation-menu-mobile {
   visibility: visible;
   transform: translateX(0);
+}
